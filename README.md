@@ -6,7 +6,7 @@
 NOTE: Devlopement of this project has been stopped because I am working on newer projects so this repository will not be receving any updates.
 Last Update: Fixed issues with connecting with metamask.
 ```
-
+ 
 ### Blockchain based Fake product identification Solution using QR Codes
 
 ## Installation & Demo
